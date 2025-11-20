@@ -1,6 +1,6 @@
 ## 🎉 Hi there, I'm Shiva! 👋
 
-## 🚀 Fresher | Software Developer | CSE Graduate | Tech Enthusiast
+🚀 Fresher | Software Developer | CSE Graduate | Tech Enthusiast
 
 
 I'm a passionate CSE graduate from GMRIT, skilled in Java, Python, ML, SQL, and modern web technologies like MERN.
