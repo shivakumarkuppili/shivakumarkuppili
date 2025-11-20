@@ -1,12 +1,16 @@
-## Hi there 👋
-🎉 Hi there, I'm Shiva! 👋
+## 🎉 Hi there, I'm Shiva! 👋
 
-🚀 Fresher | Software Developer | CSE Graduate | Tech Enthusiast
+## 🚀 Fresher | Software Developer | CSE Graduate | Tech Enthusiast
 
-<img align="right" alt="Coding" width="300" src="C:\Users\shiva\Downloads\full-stack-web-development.png"/>
 
 I'm a passionate CSE graduate from GMRIT, skilled in Java, Python, ML, SQL, and modern web technologies like MERN.
 I love building creative solutions, learning constantly, and contributing to impactful software development.
+
+## 🛠️ Tech Stack
+Languages: Python, Java, C
+Web Technologies: Html, CSS, JS, React, SpringBoot, Rest Api
+AI/ML Technologies: Scikit-Learn ,NumPy ,Pandas ,Deep Learning(TensorFlow, Keras, PyTorch)
+Other: Aws Cloud, Devops
 
 
 <!--
