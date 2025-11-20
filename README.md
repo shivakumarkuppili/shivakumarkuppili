@@ -8,8 +8,11 @@ I love building creative solutions, learning constantly, and contributing to imp
 
 ## 🛠️ Tech Stack
 Languages: Python, Java, C
+
 Web Technologies: Html, CSS, JS, React, SpringBoot, Rest Api
+
 AI/ML Technologies: Scikit-Learn ,NumPy ,Pandas ,Deep Learning(TensorFlow, Keras, PyTorch)
+
 Other: Aws Cloud, Devops
 
 
