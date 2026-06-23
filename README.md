@@ -2,18 +2,16 @@
 
 🚀 Fresher | Software Developer | CSE Graduate | Tech Enthusiast
 
-
-I'm a passionate CSE graduate from GMRIT, skilled in Java, Python, ML, SQL, and modern web technologies like MERN.
-I love building creative solutions, learning constantly, and contributing to impactful software development.
+Results-driven Software Engineer with hands-on experience in Java, Spring Boot, Microservices, REST APIs, SQL, and full-stack application development. Skilled in Python, Data Structures & Algorithms, and building scalable, high-performance applications. Possesses a strong foundation in Artificial Intelligence, Machine Learning, Generative AI, Large Language Models (LLMs), Prompt Engineering, and data analysis. Experienced in developing backend services, integrating APIs, managing databases, and delivering data-driven solutions. A quick learner with strong problem-solving, analytical, and collaboration skills, passionate about leveraging modern technologies to build innovative software and AI-powered applications.
 
 ## 🛠️ Tech Stack
 Languages: Python, Java, C
 
-Web Technologies: Html, CSS, JS, React, SpringBoot, Rest Api
+Web Technologies: Html, CSS, JS, React, Mysql, SpringBoot, Rest Api, spring mvc, Microservices ,spring security, mockito, junit
 
 AI/ML Technologies: Scikit-Learn ,NumPy ,Pandas ,Deep Learning(TensorFlow, Keras, PyTorch)
 
-Other: Aws Cloud, Devops
+Other: Aws Cloud, Devops , Docker
 
 
 <!--
